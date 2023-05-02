@@ -1,5 +1,10 @@
 # Fortnite-ManifestArchive
 
+## exsample
+|Build|Engine|Date|Manifest|
+|-----------------|---------------|----------|------------------------------|
+|Build Ver|Engine Ver|YYYY-MM-DD|Manifest ID|
+
 # Season 13(13.40)
 |Build|Engine|Date|Manifest|
 |-----------------|---------------|----------|------------------------------|
